@@ -2,5 +2,12 @@
 This is a portfolio for CS 4375 projects.
 
 # Overview of ML
-This is an overview of machine learning.
-A link to the document can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Overview_of_ML.pdf). 
+This document is an overview of machine learning.
+A link to the document can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Overview_of_ML.pdf).
+
+# Portfolio Component 1: Data Exploration
+This code analyzes Boston.csv by finding the sum, mean, median, range of two vectors and then calculating the covariance and correlation between the vectors.
+A link to the code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Data_Exploration.cpp). 
+
+The document summarizes the output of the code and describes the usage of the mean, median, and range functions as well as the covariance and correlation functions in relation to data analysis.
+A link to the document can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Data_Exploration.pdf).
