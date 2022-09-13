@@ -2,7 +2,7 @@
 This is a portfolio for CS 4375 projects.
 
 # Overview of ML
-This document is an overview of machine learning.
+This document describes an overview of machine learning.
 A link to the document can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Overview_of_ML.pdf).
 
 # Portfolio Component 1: Data Exploration
