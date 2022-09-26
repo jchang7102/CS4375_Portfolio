@@ -15,4 +15,5 @@ A link to the document can be viewed [here](https://github.com/jchang7102/CS4375
 # Portfolio Component 2: Linear Models
 This code performs regression and classification on two data sets.
 A link to the regression pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Regression.pdf).
+
 A link to the classification pdf can be viewed [here]
