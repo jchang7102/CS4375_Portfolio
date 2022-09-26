@@ -11,3 +11,8 @@ A link to the code can be viewed [here](https://github.com/jchang7102/CS4375_Por
 
 The document summarizes the output of the code and describes the usage of the mean, median, and range functions as well as the covariance and correlation functions in relation to data analysis.
 A link to the document can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Data_Exploration.pdf).
+
+# Portfolio Component 2: Linear Models
+This code performs regression and classification on two data sets.
+A link to the regression pdf can be viewed [https://github.com/jchang7102/CS4375_Portfolio/blob/main/Regression.pdf]
+A link to the classification pdf can be viewed [here]
