@@ -16,4 +16,4 @@ A link to the document can be viewed [here](https://github.com/jchang7102/CS4375
 This code performs regression and classification on two data sets.
 A link to the regression pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Regression.pdf).
 
-A link to the classification pdf can be viewed [here]
+A link to the classification pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Classification.pdf).
