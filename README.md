@@ -20,7 +20,9 @@ A link to the classification pdf can be viewed [here](https://github.com/jchang7
 
 # Portfolio Component 3: Machine Learning from Scratch
 Logistic regression and naive bayes are coded from scratch and performed on the titanic data set.
+
 A link to the logistic regression code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/logistic_regression.cpp).
+
 A link to the naive bayes code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/naive-bayes.cpp).
 
 A link to the document summarizing the code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/ML%20from%20Scratch.pdf).
