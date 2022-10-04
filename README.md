@@ -17,3 +17,9 @@ This code performs regression and classification analyses on two data sets.
 A link to the regression pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Regression.pdf).
 
 A link to the classification pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Classification.pdf).
+
+# Portfolio Component 3: Machine Learning from Scratch
+Logistic regression and naive bayes are coded from scratch and performed on the titanic data set.
+A link to the logistic regression code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Regression.pdf).
+A link to the naive bayes code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Classification.pdf).
+A link to the document summarizing the code can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/Overview_of_ML.pdf).
