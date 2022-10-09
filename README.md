@@ -37,4 +37,6 @@ A link to the classification pdf can be viewed [here](https://github.com/jchang7
 
 A link to the clustering pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/naive-bayes.cpp).
 
+A link to the dimensionality reduction pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/naive-bayes.cpp).
+
 A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/ML%20from%20Scratch.pdf).
