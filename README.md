@@ -33,10 +33,10 @@ For this assignment, I worked with classmates to create similarity models, clust
 
 A link to the regression pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/logistic_regression.cpp).
 
-A link to the classification pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/naive-bayes.cpp).
+A link to the classification pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/Classification.pdf).
 
-A link to the clustering pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/naive-bayes.cpp).
+A link to the clustering pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/Clustering.pdf).
 
-A link to the dimensionality reduction pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/naive-bayes.cpp).
+A link to the dimensionality reduction pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/DimensionalityReduction.pdf).
 
 A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/ML%20from%20Scratch.pdf).
