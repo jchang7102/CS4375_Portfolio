@@ -40,3 +40,14 @@ A link to the clustering pdf can be viewed [here](https://github.com/jchang7102/
 A link to the dimensionality reduction pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/DimensionalityReduction.pdf).
 
 A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/Portfolio_Similarity.pdf).
+
+# Portfolio Component 5: Kernel and Ensemble Methods
+SVM is applied to linear regression and classification methods using linear, polynomial, and radial kernels. Then, the ensemble techniques of random forest, XGBoost, and AdaBoost are applied to the classification dataset with decision tree as a baseline.
+
+A link to the regression pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/SVMRegression.pdf).
+
+A link to the classification pdf can be viewed [here]().
+
+A link to the ensemble techniques pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/EnsembleTechniques.pdf).
+
+A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/Portfolio_Similarity.pdf).
