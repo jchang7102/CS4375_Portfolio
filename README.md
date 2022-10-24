@@ -46,8 +46,8 @@ SVM is applied to linear regression and classification methods using linear, pol
 
 A link to the regression pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/SVMRegression.pdf).
 
-A link to the classification pdf can be viewed [here]().
+A link to the classification pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/SVMClassification.pdf).
 
 A link to the ensemble techniques pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/EnsembleTechniques.pdf).
 
-A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/Portfolio_Similarity.pdf).
+A link to the document summarizing the methods can be viewed [here]().
