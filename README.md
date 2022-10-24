@@ -50,4 +50,4 @@ A link to the classification pdf can be viewed [here](https://github.com/jchang7
 
 A link to the ensemble techniques pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/EnsembleTechniques.pdf).
 
-A link to the document summarizing the methods can be viewed [here]().
+A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/6_Kernel_and_Ensemble_Methods/Kernel_and_Ensemble_Methods.pdf).
