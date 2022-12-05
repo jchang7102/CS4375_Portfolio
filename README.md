@@ -56,3 +56,8 @@ A link to the document summarizing the methods can be viewed [here](https://gith
 Machine learning in sklearn is performed on a small data set about cars. This assignment is an introduction to Python coding and comparing it to R.
 
 A link to the pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/7_ML_with_sklearn/ML_with_sklearn.pdf).
+
+# Portfolio Component 7: Image Classification
+Various image classification architects like RNN, CNN, etc. are performed on an image classification data set.
+
+A link to the pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/7_ML_with_sklearn/ML_with_sklearn.pdf).
