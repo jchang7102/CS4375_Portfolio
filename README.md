@@ -61,3 +61,5 @@ A link to the pdf can be viewed [here](https://github.com/jchang7102/CS4375_Port
 Various image classification architects like RNN, CNN, etc. are performed on an image classification data set.
 
 A link to the pdf can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/7_ML_with_sklearn/ML_with_sklearn.pdf).
+
+A link to the document summarizing the methods can be viewed [here](https://github.com/jchang7102/CS4375_Portfolio/blob/main/5_Searching_for_Similarity/Portfolio_Similarity.pdf).
